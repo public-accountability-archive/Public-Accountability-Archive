@@ -1,280 +1,214 @@
 ---
 title: "José P. Garza"
 slug: "jose-p-garza"
-record_type: person
-status: pending-review
-created: 2025-12-28
-updated: 2025-12-28
-review_required: true
-reviewer: PAA-Reviewer
+record_type: "Person"
+jurisdiction: "Travis County, Texas (Austin)"
+current_role: "District Attorney, Travis County"
+status: "Verification in progress"
+last_updated: "2025-12-28"
+profile_priority: "Tier 1"
+tags:
+  - "district-attorney"
+  - "prosecutorial-discretion"
+  - "indictment-deadlines"
+  - "plea-deals"
+  - "public-safety"
+  - "office-management"
 ---
 
-# Summary
+# José P. Garza — Travis County District Attorney (Austin, TX)
 
-José P. Garza is the elected District Attorney of Travis County, Texas (in office since January 1, 2021). This record documents **verifiable actions, official statements, measurable outcomes where available, and major controversies** associated with his tenure.
-
-This archive follows a strict separation of:
-- **Direct facts** (court filings, official statements, election results, credible reporting), and
-- **Claims / counter-claims**, clearly labeled and source-linked.
-
----
-
-# Identity
-
-- **Full name:** José P. Garza
-- **Office:** District Attorney of Travis County, Texas
-- **Term start:** January 1, 2021
-- **Jurisdiction:** Travis County (Austin and surrounding areas)
-
-**Sources**
-- Official DA bio: https://districtattorney.traviscountytx.gov/cases/meet-da/
-- Background summary (tertiary): https://en.wikipedia.org/wiki/Jos%C3%A9_Garza
+## Quick status (read first)
+**Status:** Verification in progress  
+This record separates:
+- **Verified facts** (supported by primary/credible sources linked below),
+- **Contested claims** (sides disagree; we show both sides + what’s provable),
+- **Unknown/Not found** (no reliable public sourcing located yet).
 
 ---
 
-# Background & Biography (Publicly Documented)
+## Identity & role (Verified)
+- **Name:** José P. Garza  [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Garza?utm_source=chatgpt.com)  
+- **Office:** District Attorney of Travis County, Texas (assumed office **Jan 1, 2021**)  [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Garza?utm_source=chatgpt.com)  
+- **Political:** Democrat; publicly associated with reform/progressive prosecutorial agenda (see elections + coverage below).  [oai_citation:2‡Axios](https://www.axios.com/local/austin/2024/03/06/travis-county-da-jose-garza-democratic-primary?utm_source=chatgpt.com)  
 
-- **Birthplace:** Laredo, Texas
-- **Education:** University of Texas (undergraduate); Catholic University School of Law (J.D.)
-- **Prior work (high-level):**
-  - Federal public defender / public defense work
-  - Executive Director, Workers Defense Project
-  - Work in Washington, D.C. (various federal institutions listed by the DA office)
+### Education & career background (Verified)
+- **Education:** University of Texas at Austin (BA); Catholic University (JD).  [oai_citation:3‡Wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Garza?utm_source=chatgpt.com)  
+- **Career highlights (pre-DA):** Worked for a federal district judge; served as public defender roles; worked in Washington, D.C. in federal institutions; Executive Director of Workers Defense Project.  [oai_citation:4‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/cases/meet-da/?utm_source=chatgpt.com)  
 
-**Sources**
-- Official DA bio: https://districtattorney.traviscountytx.gov/cases/meet-da/
-- Background summary: https://en.wikipedia.org/wiki/Jos%C3%A9_Garza
-
-> Note: This record does **not** include religion, private family information, or personal history unless it is explicitly stated and documented in a reliable public source.
-
----
-
-# Elections & How Power Was Obtained
-
-## 2020 Election
-- **Event:** Elected Travis County District Attorney
-- **Election date:** November 3, 2020
-- **Term began:** January 1, 2021
-
-**Source**
-- Travis County official results page (navigate to relevant year/race): https://traviscountytx.gov/elections/results-official
-
-## 2024 Re-election
-- **Event:** Re-elected Travis County District Attorney
-- **Election date:** November 5, 2024
-
-**Source**
-- Travis County official results page: https://traviscountytx.gov/elections/results-official
+### Religion / family details (Unknown / Not found reliably)
+As of this update, **no reliable public sources** were found that clearly document Garza’s **religion** or detailed **family dynamic** (upbringing/current family) in a way we can cite cleanly.  
+If you want these fields on every profile, we will keep them as:
+- **“Not publicly documented in reliable sources”** until verified.
 
 ---
 
-# Stated Goals & Priorities (As Published)
+## Elections & who votes for him (Verified + sourced)
+### Election outcomes (Verified)
+- Garza won re-election in **Nov 2024** and remains DA.  [oai_citation:5‡Ballotpedia](https://ballotpedia.org/Jos%C3%A9_Garza_%28Travis_County%2C_Texas%29?utm_source=chatgpt.com)  
+- Reported vote totals/percent (unofficial/public reporting): **~67% to ~33%** over Daniel Betts.  [oai_citation:6‡Community Impact](https://communityimpact.com/austin/south-central-austin/election/2024/11/05/incumbent-jose-garza-wins-race-for-travis-county-district-attorney-in-2024-election-unofficial-results-show/?utm_source=chatgpt.com)  
 
-Garza’s campaign and public messaging has emphasized:
-- Survivors-focused prosecution and services
-- Gun violence prevention
-- “True justice” framing and reform priorities
-
-**Sources**
-- Campaign site: https://www.joseforda.com/
-- Official DA bio (office direction / experience context): https://districtattorney.traviscountytx.gov/cases/meet-da/
+### Geographic voting pattern (Verified)
+- Coverage of the **2024 Democratic primary** indicates Garza’s support was broad and included strong backing in **East Austin precincts** (with the challenger stronger in parts of West Austin).  [oai_citation:7‡KUT](https://www.kut.org/politics/2024-03-07/map-heres-how-travis-county-voted-in-the-democratic-primary-for-district-attorney?utm_source=chatgpt.com)  
 
 ---
 
-# Documented Actions & Outcomes (Directly Sourced)
+## Stated goals / platform (Verified where sourced)
+Garza and his office describe the goal as ensuring the justice system “works for everyone,” emphasizing reforms and system performance.  [oai_citation:8‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
 
-## Example: Conviction Secured (Official Release)
-- **Action:** Travis County DA’s Office announced a guilty verdict in a case involving child sexual abuse charges (continuous sexual abuse of a child; indecency; attempted sexual assault of a child).
-- **Evidence class:** Official DA office publication
+> NOTE: For the site standard you set, we treat “goals” as **quotable claims** and link directly to the official page whenever possible.
 
-**Source**
-- TCDAO press release: https://districtattorney.traviscountytx.gov/travis-county-das-office-secures-guilty-verdict-for-man-charged-with-continuous-sexual-abuse-of-a-child-indecency-with-a-child-by-contact-and-attempted-sexual-assault-of-a-child/
-
----
-
-# Major Controversies & Disputes (With Claims vs Counter-Claims)
-
-## A) Missed Felony Indictment Deadlines (90-day window issue)
-### What happened (reported)
-- Texas reporting described recurring failures to indict some felony defendants within statutory time windows, creating legal consequences (including bond reduction/release risk and case disruption).
-
-**Sources**
-- Texas Standard investigation: https://www.texasstandard.org/stories/travis-county-district-attorney-indictments-missed-deadline/
-- Austin American-Statesman follow-up (reports peak counts and subsequent process changes): https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php
-- Fox 7 Austin example case (murder suspect bond reduction tied to missed deadline): https://www.fox7austin.com/news/stephon-morson-murder-case-new-records-da-missed-deadline
-
-### Critic claim (summarized, attributed)
-- Critics argue missed deadlines reflect management failure and weaken public safety by increasing release/bond risk for serious defendants.
-
-**Sources**
-- Texas Standard: https://www.texasstandard.org/stories/travis-county-district-attorney-indictments-missed-deadline/
-- Statesman: https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php
-
-### Counter-claim / response (summarized, attributed)
-- Reporting and DA statements cite staffing, restructuring, and backlog pressures; later reporting indicates procedural changes reduced ongoing missed-deadline outcomes.
-
-**Sources**
-- Statesman (process changes and improvements): https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php
-- Texas Standard: https://www.texasstandard.org/stories/travis-county-district-attorney-indictments-missed-deadline/
+**Primary source (official bio/office page):**
+- Travis County DA site — “Meet the DA” page.  [oai_citation:9‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/cases/meet-da/?utm_source=chatgpt.com)  
 
 ---
 
-## B) “Rogue Prosecutor” Removal Attempt Under Texas HB 17
-### What happened (reported + official)
-- A petition sought removal of Garza under Texas’s “rogue prosecutor” law framework; the effort was dismissed.
+## Impact & accomplishments (Mixed: Verified + requires careful framing)
+### Documented operational changes after scrutiny (Verified)
+A major, heavily sourced issue in Travis County was **missed 90-day indictment deadlines** (Texas law) resulting in bond reductions/releases. Later reporting states the office **improved** and stopped leaving defendants jailed past the deadline, after sustained scrutiny and process changes.  [oai_citation:10‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
 
-**Sources**
-- Texas Tribune coverage of the attempt: https://www.texastribune.org/2024/04/20/texas-rogue-prosecutors-law-jose-garza-removal-attempt/
-- TCDAO statement on dismissal (official): https://districtattorney.traviscountytx.gov/removal-petition-against-travis-county-district-attorney-jose-garza-dismissed-presiding-judge/
-- CBS Austin reporting on the petition: https://cbsaustin.com/news/local/travis-county-district-attorney-faces-removal-attempt-under-texas-rogue-prosecutors-law
-
-### Claim (summarized, attributed)
-- Petitioners alleged systematic refusal to prosecute certain categories of offenses and argued this made Garza unqualified.
-
-**Source**
-- Texas Tribune: https://www.texastribune.org/2024/04/20/texas-rogue-prosecutors-law-jose-garza-removal-attempt/
-
-### Counter-claim (summarized, attributed)
-- Garza/office stated the petition lacked merit and was dismissed.
-
-**Source**
-- TCDAO statement: https://districtattorney.traviscountytx.gov/removal-petition-against-travis-county-district-attorney-jose-garza-dismissed-presiding-judge/
+What this establishes (factually):
+- The missed-deadline problem was real and widely documented, with **serious downstream effects**.  [oai_citation:11‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
+- Reporting later documented a **course correction** and improved compliance.  [oai_citation:12‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
 
 ---
 
-## C) High-Profile Plea/Probation Outcome (Recent Trigger Incident)
-### Case: Richard Leigh Bell (Reported Nov 2025)
-#### What happened (reported)
-- Reporting described a plea deal where prosecutors dropped multiple felony charges and the defendant pleaded guilty to a lesser charge with probation/deferred terms, generating significant public controversy.
+## Major controversies & high-public-interest cases
+This section is built to your “compare/contrast” rule:
+1) What happened (verifiable)
+2) What critics say
+3) What Garza/office says (or official explanation)
+4) What can be proven from available sources
 
-**Sources**
-- KVUE report (Nov 10, 2025): https://www.kvue.com/article/news/local/man-accused-multiple-child-sex-crimes-probation-prison-travis-county/269-687e2958-fff7-461a-9ab9-1cb4fc66bd42
-- Austin American-Statesman report (court-record detail + DA rationale): https://www.statesman.com/news/courts/article/travis-county-probation-child-abuse-21164709.php
+### Controversy A — Child-sex-crime indictment reduced to probation plea (Bell case) (Verified facts + contested interpretation)
+**Why it matters:** This is the “most recent incident” that triggered a wave of coverage and public anger.
 
-#### Critic claim (summarized, attributed)
-- Critics described the outcome as proof of “soft on crime” prosecution and argued serious allegations should have proceeded to trial with higher exposure.
+#### What happened (core facts reported)
+Multiple outlets reported that **Richard Leigh Bell** faced a multi-count felony indictment involving child sex crimes, but prosecutors dismissed most counts as part of a plea deal in which Bell pleaded to **injury to a child** and received **deferred probation** (no prison time).  [oai_citation:13‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
 
-**Sources**
-- KVUE: https://www.kvue.com/article/news/local/man-accused-multiple-child-sex-crimes-probation-prison-travis-county/269-687e2958-fff7-461a-9ab9-1cb4fc66bd42
-- (National amplification referencing KVUE) Fox News: https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report
+#### One side (critics) says
+- The plea is “soft on crime,” endangers children, and failed the victim’s family.
+- Criticism includes claims that the family felt blindsided and that a serious offender avoided prison.  [oai_citation:14‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
 
-#### Counter-claim / DA rationale (summarized, attributed)
-- The Statesman reported the DA’s office stated it could not ethically pursue top charges after reviewing exculpatory evidence and that the plea reflected what could be presented to a jury; the defendant faced supervision conditions including sex-offender registration requirements and no-contact orders as described in reporting.
+#### The other side (prosecution rationale) says
+- Local reporting indicated that **new evidence** created ethical/prosecutorial problems for pursuing the original top charges (i.e., the state could not ethically proceed as charged).  [oai_citation:15‡Facebook](https://www.facebook.com/statesman/posts/after-new-evidence-surfaced-most-charges-were-dropped-richard-bell-pleaded-guilt/1260044806163204/?utm_source=chatgpt.com)  
 
-**Source**
-- Austin American-Statesman: https://www.statesman.com/news/courts/article/travis-county-probation-child-abuse-21164709.php
+#### What’s provable right now
+- **Provable:** There was a plea deal with probation and major charge reductions/dismissals widely reported.  [oai_citation:16‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
+- **In progress:** We still need the **official court records** (plea paperwork / judgment / conditions) from the Travis County District Clerk portal to lock down exact counts, dates, and terms directly from the docket.
 
-> Sentencing authority note: Prosecutors negotiate pleas and recommend outcomes; judges impose final sentences. This record documents the prosecutorial decision points and the reported final disposition.
+**Source links (public reporting):**
+- Fox News reporting summarizing KVUE:  [oai_citation:17‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
+- Community summary referencing KVUE:  [oai_citation:18‡Hoodline](https://hoodline.com/2025/11/travis-county-father-of-alleged-abused-stunned-as-nine-child-sex-felonies-dropped-in-probation-deal/?utm_source=chatgpt.com)  
+- Public reaction video post:  [oai_citation:19‡Facebook](https://www.facebook.com/TMPA.COPS/videos/-shocking-travis-county-da-lets-child-predator-walk-free/1867853900483740/?utm_source=chatgpt.com)  
+- Social post referencing “new evidence surfaced” framing:  [oai_citation:20‡Facebook](https://www.facebook.com/statesman/posts/after-new-evidence-surfaced-most-charges-were-dropped-richard-bell-pleaded-guilt/1260044806163204/?utm_source=chatgpt.com)  
 
----
-
-# Political Support, Funding & Opposition (Documented, Not Speculated)
-
-## Primary public source for donations
-Campaign finance filings are public and should be treated as the authoritative record.
-
-**Source**
-- Texas Ethics Commission (search portal): https://www.ethics.state.tx.us/search/
-
-## Documented reporting on opposition funding (example)
-Reporting described significant outside spending targeting Garza (including reports about “Saving Austin” and alleged major-funder involvement).
-
-**Sources**
-- KVUE reporting referencing WSJ reporting and response: https://www.kvue.com/article/news/local/elon-musk-funded-pac-jose-garza-responds-wall-street-journal-report/269-ef97cbe7-d912-47b6-9d9a-7b8c8eb51a5f
-- Wall Street Journal (reported): https://www.wsj.com/us-news/elon-musk-texas-da-jose-garza-oust-atempt-206db043
-
-> This record does not label any donor network as “backing” unless reporting and/or filings support the claim. Where claims exist, they are attributed to sources and separated from filings.
+**Primary records (to be pulled/linked):**
+- Travis County District Clerk “Online Court Records Search Portal” (public access; criminal records 2008–present).  [oai_citation:21‡Travis County](https://www.traviscountytx.gov/district-clerk/case-information-records)  
 
 ---
 
-# Related Organization Record
+### Controversy B — Missed indictment deadline(s) leading to bond reduction / release risk (Verified)
+This controversy has two parts: (1) the systemic pattern; (2) high-profile examples.
 
-- Travis County District Attorney’s Office (organization record): `/content/pages/records/organizations/travis_county_district_attorneys_office.md`
+#### What happened (system pattern)
+Investigations reported the DA’s office repeatedly missed the state’s **90-day indictment deadline** for jailed felony defendants, leading to bond reductions/releases and other consequences, then later improved after scrutiny and process fixes.  [oai_citation:22‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
 
----
+#### High-profile example: Stephon Morson (murder case) (Verified)
+- Reporting shows Garza’s office missed the deadline to indict in the required window, contributing to a **dramatic bond reduction** situation; later, the office indicted and sought bond increase.  [oai_citation:23‡FOX 7 Austin](https://www.fox7austin.com/news/stephon-morson-murder-case-new-records-da-missed-deadline?utm_source=chatgpt.com)  
+- Garza publicly characterized the situation as a **management mistake** and described internal staffing disruption.  [oai_citation:24‡KEYE](https://cbsaustin.com/news/local/da-garza-acknowledges-mismanagement-after-missed-deadline-frees-murder-suspect?utm_source=chatgpt.com)  
 
-# Inline Appendices (One-Page Experience)
-
-## Appendix A — Statistical & Outcomes Context (Travis County / Austin)
-
-### A1) Crime data sources to use (authoritative repositories)
-- Austin Police Department: Annual Crime & Traffic Reports landing page  
-  https://www.austintexas.gov/page/annual-crime-traffic-reports
-- Texas DPS “Crime in Texas” reports and jurisdiction tools  
-  https://www.dps.texas.gov/section/crime-records/crime-texas
-- Texas UCR / NIBRS dashboard  
-  https://txucr.nibrs.com/
-- FBI Crime Data Explorer (CDE)  
-  https://cde.ucr.cjis.gov/
-
-### A2) How to interpret (non-negotiable)
-- Crime trends are influenced by many factors (policing, courts, economy, demographics, reporting changes).
-- This archive **does not claim causation** without a directly sourced study or official analysis.
-- When statistics are cited, they must include:
-  - exact year(s)
-  - exact jurisdiction
-  - the reporting system (UCR vs NIBRS)
-  - the source link
-
-### A3) Known reporting caveat
-- Crime data systems and participation can vary by year; reporting coverage can affect comparisons.
-
-**Source**
-- FBI CDE context: https://cde.ucr.cjis.gov/
-
-### A4) Local trend reporting example (secondary)
-Some reporting described year-over-year declines in violent crime/homicides during portions of 2024 in Austin, while noting broader context and limitations.
-
-**Source**
-- Axios Austin: https://www.axios.com/local/austin/2024/04/17/austin-violent-crime-homicides-decline-2024
+**Source links (official + reporting):**
+- Official DA office statement re: indictment and bond hearing:  [oai_citation:25‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/travis-county-district-attorney-office-indicts-stephon-morson-bond-increase-hearing/?utm_source=chatgpt.com)  
+- FOX 7 Austin reporting on missed deadline and records context:  [oai_citation:26‡FOX 7 Austin](https://www.fox7austin.com/news/stephon-morson-murder-case-new-records-da-missed-deadline?utm_source=chatgpt.com)  
+- CBS Austin coverage on Garza acknowledging mismanagement:  [oai_citation:27‡KEYE](https://cbsaustin.com/news/local/da-garza-acknowledges-mismanagement-after-missed-deadline-frees-murder-suspect?utm_source=chatgpt.com)  
 
 ---
 
-## Appendix B — Methodology (How This Record Is Built)
-
-1. **Primary sources > secondary reporting > tertiary summaries**
-2. Every major claim must include:
-   - who said it
-   - what happened
-   - when
-   - source link
-3. “Both sides” requirement is enforced by structure:
-   - **Claim**
-   - **Counter-claim**
-   - **What is verifiably established**
-4. Sensitive topics (child victim cases) must be handled with:
-   - minimal identifying detail
-   - direct reliance on court/reporting descriptions
-   - no speculation on guilt beyond what sources say
+### Controversy C — Office management criticism / turnover / internal dysfunction claims (Verified as “reported criticism”)
+Longform reporting described internal criticism (including resignation letters) alleging disorganization/chaos and management problems.  [oai_citation:28‡Statesman](https://www.statesman.com/news/politics/article/travis-county-da-faces-backlash-political-support-20805136.php?utm_source=chatgpt.com)  
+**Important:** This is framed as **reported allegations** and not treated as proven misconduct unless backed by official findings.
 
 ---
 
-## Appendix C — Source Audit Trail (Quality Rules)
+## Funding, PAC support, and influence narratives (Verified where possible)
+This section is sensitive and must be sourced tightly.
 
-### Allowed (highest to lowest)
-- Government / official records (courts, agencies, election offices)
-- Official DA communications (press releases, statements)
-- Major local outlets with court-document reporting (e.g., KVUE, Statesman)
-- Major statewide outlets (Texas Tribune)
+### Verified: outside spending / PAC activity reported
+- 2020 local reporting identified support structures including **Texas Justice & Public Safety PAC** and **Real Justice PAC** as active in the DA race context.  [oai_citation:29‡Austin Monitor](https://austinmonitor.com/stories/2020/07/is-money-going-to-decide-travis-county-races/?utm_source=chatgpt.com)  
+- Transparency records exist for Texas Justice & Public Safety PAC contributions/expenditures (committee-level reporting).  [oai_citation:30‡Transparency USA](https://www.transparencyusa.org/tx/committee/texas-justice-and-public-safety-pac-82400-gpac/contributors?cycle=2015-to-now&utm_source=chatgpt.com)  
 
-### Restricted
-- Social media: permitted only as “public reaction,” never as proof.
-- Advocacy sites: permitted only as “claims exist,” not as verified fact.
+### “Soros-backed” framing (Verified as a political narrative; verify specifics per cycle)
+- Some coverage describes Garza as “Soros-backed,” often referencing prior-cycle PAC funding. A major national outlet reported details about the political fight around Garza (including opposition funding) and noted prior Soros-linked funding in 2020.  [oai_citation:31‡The Wall Street Journal](https://www.wsj.com/us-news/elon-musk-texas-da-jose-garza-oust-atempt-206db043?utm_source=chatgpt.com)  
+
+**Standard we enforce here:**
+- We do **not** label someone “Soros-backed” as a standalone claim unless we can cite **traceable PAC/committee spending** and clearly specify **which election cycle** it refers to.
 
 ---
 
-# Sources (Quick Index)
+## Metrics: “criminals released who reoffend” (In progress — needs a repeatable method)
+You asked: “How many criminals released come back to commit more crimes?”
 
-- Official DA bio: https://districtattorney.traviscountytx.gov/cases/meet-da/
-- TCDAO press releases: https://districtattorney.traviscountytx.gov/
-- Travis County election results: https://traviscountytx.gov/elections/results-official
-- Removal petition reporting: https://www.texastribune.org/2024/04/20/texas-rogue-prosecutors-law-jose-garza-removal-attempt/
-- TCDAO removal dismissal statement: https://districtattorney.traviscountytx.gov/removal-petition-against-travis-county-district-attorney-jose-garza-dismissed-presiding-judge/
-- Indictment deadline investigation: https://www.texasstandard.org/stories/travis-county-district-attorney-indictments-missed-deadline/
-- Statesman follow-up on improvements: https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php
-- KVUE Bell plea deal report (Nov 2025): https://www.kvue.com/article/news/local/man-accused-multiple-child-sex-crimes-probation-prison-travis-county/269-687e2958-fff7-461a-9ab9-1cb4fc66bd42
-- Statesman Bell case detail + DA rationale: https://www.statesman.com/news/courts/article/travis-county-probation-child-abuse-21164709.php
-- Texas Ethics Commission filings portal: https://www.ethics.state.tx.us/search/
-- APD annual crime/traffic reports: https://www.austintexas.gov/page/annual-crime-traffic-reports
-- Texas DPS crime reports: https://www.dps.texas.gov/section/crime-records/crime-texas
-- FBI Crime Data Explorer: https://cde.ucr.cjis.gov/
+As of this update:
+- We have **case examples** and **systemic deadline issues** documented, but we do **not** yet have a clean, official, single-number “reoffense after release” metric attributable only to Garza decisions.
+- This will be built via a repeatable method:
+  1) Identify release mechanism (plea, bond reduction, dismissal, deadline release, diversion).
+  2) Pull docket + bond order + release conditions.
+  3) Search for subsequent arrest/charge (official jail logs + court dockets).
+  4) Classify as “post-release new offense” with dates and links.
+
+This metric will appear on the profile only when each entry is docket-backed.
+
+---
+
+## Primary records portals (Verified)
+Use these to attach “Bible-verse style” clickable sources:
+- Travis County District Clerk — “Online Court Records Search Portal” (public court documents search).  [oai_citation:32‡Travis County](https://www.traviscountytx.gov/district-clerk/case-information-records)  
+- Travis County criminal docket search page (settings/court dates).  [oai_citation:33‡Travis County Public Courts](https://publiccourts.traviscountytx.gov/?utm_source=chatgpt.com)  
+
+---
+
+## Verification checklist (live)
+### ✅ Verified (public, source-backed)
+- Identity, office, start date, education, and prior roles.  [oai_citation:34‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/cases/meet-da/?utm_source=chatgpt.com)  
+- 2024 win + margins / vote reporting.  [oai_citation:35‡Community Impact](https://communityimpact.com/austin/south-central-austin/election/2024/11/05/incumbent-jose-garza-wins-race-for-travis-county-district-attorney-in-2024-election-unofficial-results-show/?utm_source=chatgpt.com)  
+- Missed-indictment-deadline controversy + later improvement reporting.  [oai_citation:36‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
+- Morson deadline/bond controversy (with official DA statement).  [oai_citation:37‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/travis-county-district-attorney-office-indicts-stephon-morson-bond-increase-hearing/?utm_source=chatgpt.com)  
+- Bell plea deal widely reported; “new evidence surfaced” framing appears in public posts.  [oai_citation:38‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
+
+### ⏳ In progress (requires primary docket pulls)
+- Bell case: exact case number, judgment/plea terms, probation conditions, dates (to be linked from District Clerk portal).  [oai_citation:39‡Travis County](https://www.traviscountytx.gov/district-clerk/case-information-records)  
+- Any quantified “reoffense after release” dataset tied to specific decisions.
+
+### ❓ Not found reliably (will not guess)
+- Religion; detailed family life; “mentors” list unless sourced in credible profiles/interviews.
+
+---
+
+## Source index (clickable)
+**Official / primary**
+- Travis County District Clerk — records portal info page  [oai_citation:40‡Travis County](https://www.traviscountytx.gov/district-clerk/case-information-records)  
+- Travis County DA — “Meet the DA”  [oai_citation:41‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/cases/meet-da/?utm_source=chatgpt.com)  
+- Travis County DA — press release on Morson indictment/bond hearing  [oai_citation:42‡Travis County District Attorney](https://districtattorney.traviscountytx.gov/travis-county-district-attorney-office-indicts-stephon-morson-bond-increase-hearing/?utm_source=chatgpt.com)  
+
+**Local reporting (elections / voting patterns / operations)**
+- KUT map/analysis of 2024 primary voting pattern  [oai_citation:43‡KUT](https://www.kut.org/politics/2024-03-07/map-heres-how-travis-county-voted-in-the-democratic-primary-for-district-attorney?utm_source=chatgpt.com)  
+- Statesman/KVUE summary: missed deadlines issue improved (reported)  [oai_citation:44‡Statesman](https://www.statesman.com/news/article/travis-county-da-indicting-defendants-texas-21051062.php?utm_source=chatgpt.com)  
+- CBS Austin on Garza acknowledging mismanagement (reported)  [oai_citation:45‡KEYE](https://cbsaustin.com/news/local/da-garza-acknowledges-mismanagement-after-missed-deadline-frees-murder-suspect?utm_source=chatgpt.com)  
+- FOX 7 Austin on Morson deadline/bond reporting  [oai_citation:46‡FOX 7 Austin](https://www.fox7austin.com/news/stephon-morson-murder-case-new-records-da-missed-deadline?utm_source=chatgpt.com)  
+
+**PAC / influence reporting**
+- Austin Monitor 2020 campaign finance context  [oai_citation:47‡Austin Monitor](https://austinmonitor.com/stories/2020/07/is-money-going-to-decide-travis-county-races/?utm_source=chatgpt.com)  
+- Transparency USA committee page for Texas Justice & Public Safety PAC  [oai_citation:48‡Transparency USA](https://www.transparencyusa.org/tx/committee/texas-justice-and-public-safety-pac-82400-gpac/contributors?cycle=2015-to-now&utm_source=chatgpt.com)  
+- WSJ reporting on opposition spending / narrative of Soros-linked funding in 2020  [oai_citation:49‡The Wall Street Journal](https://www.wsj.com/us-news/elon-musk-texas-da-jose-garza-oust-atempt-206db043?utm_source=chatgpt.com)  
+
+**Bell plea controversy (public reporting / reaction)**
+- Fox News summary citing local reporting  [oai_citation:50‡Fox News](https://www.foxnews.com/us/texas-man-accused-child-sex-crimes-avoids-jail-plea-deal-soros-backed-prosecutor-report?utm_source=chatgpt.com)  
+- Public reaction posts/videos  [oai_citation:51‡Facebook](https://www.facebook.com/TMPA.COPS/videos/-shocking-travis-county-da-lets-child-predator-walk-free/1867853900483740/?utm_source=chatgpt.com)  
+- Public post stating “new evidence surfaced” framing  [oai_citation:52‡Facebook](https://www.facebook.com/statesman/posts/after-new-evidence-surfaced-most-charges-were-dropped-richard-bell-pleaded-guilt/1260044806163204/?utm_source=chatgpt.com)  
+---
+
+## Notes (internal standard)
+- This record avoids unverifiable personal claims.
+- Every major claim is either (a) source-linked, or (b) clearly labeled “in progress / not found.”
+- This is the template standard for every future profile.
