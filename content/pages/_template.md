@@ -1,5 +1,7 @@
 <!-- CANONICAL: page_template -->
 
+> **Lifecycle:** This page follows the [Page Lifecycle](/lifecycle).
+
 > **Governing Standard:**  
 > This page is governed by the [Standards & Methodology](/standards).  
 > Any conflict is resolved in favor of the Standards document.
