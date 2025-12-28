@@ -2,21 +2,19 @@
 
 A standards-based public accountability archive.
 
+---
+
+## Start Here
+➡️ [Before You Enter]({{ "/content/pages/enter" | relative_url }})
+
+---
+
 ## Governance
+- [Standards & Methodology]({{ "/content/pages/standards" | relative_url }})
+- [Page Lifecycle]({{ "/content/pages/lifecycle" | relative_url }})
 
-This archive is governed by the following canonical documents:
+---
 
-- **Standards & Methodology** → `/content/pages/standards`
-- **Page Lifecycle** → `/content/pages/lifecycle`
-- **Submit a Record** → `/content/pages/enter`
-
-## Standards
-Every factual statement is paired with a clickable source.
-Primary sources are prioritized.
-Disputed claims are labeled.
-Corrections are logged.
-
-## Status
-MVP build in progress.
-
-<!-- CI registration ping -->
+## Records
+- [People Records]({{ "/content/pages/records/people" | relative_url }})
+- [Organization Records]({{ "/content/pages/records/organizations" | relative_url }})
