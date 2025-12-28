@@ -1,4 +1,4 @@
-<!-- CANONICAL: enter -->
+<!-- CANONICAL: entry -->
 
 ---
 title: "Before You Enter"
