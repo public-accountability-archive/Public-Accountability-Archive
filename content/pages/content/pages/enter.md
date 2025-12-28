@@ -1,3 +1,5 @@
+<!-- CANONICAL: enter -->
+
 ---
 title: "Before You Enter"
 slug: "enter"
