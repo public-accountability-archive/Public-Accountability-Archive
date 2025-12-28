@@ -1,0 +1,8 @@
+# Public Accountability Archive (PAA)
+# CODEOWNERS
+#
+# This file defines mandatory reviewers for all changes.
+# No content, configuration, or standards may be modified
+# without explicit approval from the archive maintainer.
+
+* @public-accountability-archive
