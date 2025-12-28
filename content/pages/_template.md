@@ -1,3 +1,5 @@
+<!-- CANONICAL: page_template -->
+
 ---
 title: ""
 status: draft
