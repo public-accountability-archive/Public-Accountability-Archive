@@ -2,7 +2,7 @@
 title: "José P. Garza"
 slug: "jose-p-garza"
 record_type: person
-status: draft
+status: pending-review
 created: 2025-12-28
 updated: 2025-12-28
 review_required: true
