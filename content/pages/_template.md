@@ -1,5 +1,9 @@
 <!-- CANONICAL: page_template -->
 
+> **Governing Standard:**  
+> This page is governed by the [Standards & Methodology](/standards).  
+> Any conflict is resolved in favor of the Standards document.
+
 ---
 title: ""
 status: draft
