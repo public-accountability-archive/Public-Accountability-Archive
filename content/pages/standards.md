@@ -1,3 +1,5 @@
+<!-- CANONICAL: standards -->
+
 ---
 title: "Standards & Methodology"
 slug: "standards"
