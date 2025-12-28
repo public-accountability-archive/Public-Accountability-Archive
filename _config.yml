@@ -1,0 +1,8 @@
+title: Public Accountability Archive
+
+# IMPORTANT: project site base path
+baseurl: "/Public-Accountability-Archive"
+url: "https://public-accountability-archive.github.io"
+
+# Make /page instead of /page.html
+permalink: pretty
