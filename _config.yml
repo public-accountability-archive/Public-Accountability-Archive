@@ -1,8 +1,8 @@
 title: Public Accountability Archive
 
-# IMPORTANT: project site base path
+# GitHub Pages "project site" base path (repo name)
 baseurl: "/Public-Accountability-Archive"
 url: "https://public-accountability-archive.github.io"
 
-# Make /page instead of /page.html
+# Clean URLs: /path/ instead of /path.html
 permalink: pretty
