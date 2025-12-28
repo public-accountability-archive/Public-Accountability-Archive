@@ -2,13 +2,11 @@
 title: "José P. Garza"
 slug: "jose-p-garza"
 record_type: person
-status: pending-review
+status: draft
 created: 2025-12-28
 updated: 2025-12-28
 review_required: true
 reviewer: PAA-Reviewer
-jurisdiction: "Travis County, Texas"
-office: "Travis County District Attorney"
 ---
 
 # Summary
