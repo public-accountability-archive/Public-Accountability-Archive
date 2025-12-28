@@ -10,3 +10,5 @@ Corrections are logged.
 
 ## Status
 MVP build in progress.
+
+<!-- CI registration ping -->
